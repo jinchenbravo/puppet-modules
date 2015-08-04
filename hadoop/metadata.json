@@ -1,0 +1,17 @@
+{
+  "name": "jinchen-hadoop",
+  "version": "0.1.0",
+  "author": "jinchen",
+  "summary": "This is a module for Apache Hadoop",
+  "license": "Apache 2.0",
+  "source": "",
+  "issues_url": null,
+  "project_page": null,
+  "dependencies": [
+    {
+      "version_range": ">= 1.0.0",
+      "name": "puppetlabs-stdlib"
+    }
+  ]
+}
+
